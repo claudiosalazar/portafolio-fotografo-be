@@ -1,6 +1,6 @@
-# Backend para Portafolio de Fotógrafo
+# Backend para Portafolio de Fotógrafo Ficticio
 
-API REST completa desarrollada con [Node.js](https://nodejs.org/es) y Express para gestionar el contenido de un portafolio de fotografía profesional.
+API REST completa desarrollada con [Node.js](https://nodejs.org/es) y Express para gestionar el contenido de un portafolio de un fotografo ficticio profesional.
 
 ## 🚀 Características
 
@@ -215,18 +215,10 @@ El servidor estará disponible en [http://localhost:3001](http://localhost:3001)
 - [ ] Agregar logs estructurados
 - [ ] Documentación con Swagger/OpenAPI
 
-## 🤝 Contribución
+## 📄 Licencia
 
-1. Fork el proyecto
-2. Crear una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abrir un Pull Request
+Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
-## 📞 Contacto
+**Creado por** 
 
-**Claudio Salazar** - Desarrollador Full Stack
-
----
-
-*Backend desarrollado para portafolio de fotografía profesional*
+![firma](https://claudiosalazar.cl/images/firma-github.webp) 
